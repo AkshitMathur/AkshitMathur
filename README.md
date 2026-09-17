@@ -1,5 +1,5 @@
 <h1 align="center">Akshit Mathur</h1>
-<h3 align="center"> | Electronics and Telecommunication Engineering | Final Year | </h3>
+<h3 align="center"> | Electronics and Telecommunication Engineering | <h1 align="center"> Final Year | </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akshit-mathur-429331293">
