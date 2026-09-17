@@ -14,7 +14,7 @@
 
 ### 👋 About Me
 
-I'm an embedded systems engineer who enjoys building hardware that senses, decides, and acts — from real-time firmware on microcontrollers to custom digital logic on FPGAs. My work spans IoT product design, RTOS-based real-time architectures, and computer-vision-driven control systems, with a focus on writing efficient, production-minded code close to the hardware.
+I'm an Electronics and Telecommunication engineering Final Year student who enjoys building hardware that senses, decides, and acts — from real-time firmware on microcontrollers to custom digital logic on FPGAs. My work spans IoT product design, RTOS-based real-time architectures, and computer-vision-driven control systems, with a focus on writing efficient, production-minded code close to the hardware.
 
 I'm actively open to **full-time, internship, and collaborative opportunities** in embedded systems, IoT, and firmware engineering — feel free to reach out via [LinkedIn](https://www.linkedin.com/in/akshit-mathur-429331293) or [email](mailto:mathur.aksh2712@gmail.com).
 
