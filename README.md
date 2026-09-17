@@ -1,5 +1,5 @@
 <h1 align="center">Akshit Mathur</h1>
-<h3 align="center">Embedded Systems & IoT Engineer | Real-Time Systems · FPGA · Edge Computing</h3>
+<h3 align="center">Electronics and Telecommunication Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akshit-mathur-429331293">
