@@ -83,12 +83,8 @@ something meaningful together.
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/akshit-mathur-429331293">LinkedIn</a>
-&nbsp;·&nbsp;
-<a href="mailto:mathur.aksh2712@gmail.com">Email</a>
-</p>
+  <a href="https://www.linkedin.com/in/akshit-mathur-429331293">LinkedIn</a>
   &nbsp;·&nbsp;
-  <a href="mailto:mathur.aksh2712@gmail.com">
-    Email
-  </a>
+  <a href="mailto:mathur.aksh2712@gmail.com">Email</a>
+</p>
 </p>
