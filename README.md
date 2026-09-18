@@ -64,39 +64,53 @@ Real-time object detection and counting system demonstrating interrupt-to-task c
 ---
 
 ## 📊 GitHub Statistics
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img
-    src="https://github-readme-stats-pink-sigma-80.vercel.app/api?username=AkshitMathur&show_icons=true&theme=dark&hide_border=true"
-    height="190"
-    alt="My GitHub Stats"
-  />
-</p>
+## 📊 GitHub Statistics
 
 <table align="center">
   <tr>
     <td align="center" valign="middle">
       <img
-        src="https://streak-stats.demolab.com/?user=AkshitMathur&theme=dark&hide_border=true"
-        width="600"
-        height="190"
-        alt="My GitHub Streak"
+        src="https://github-readme-stats-pink-sigma-80.vercel.app/api?username=AkshitMathur&show_icons=true&theme=dark&hide_border=true"
+        width="420"
+        alt="Akshit Mathur GitHub Statistics"
       />
     </td>
 
-<td align="center" valign="middle">
-  <img
-    src="https://github-readme-stats-pink-sigma-80.vercel.app/api/top-langs?username=AkshitMathur&amp;layout=compact&amp;langs_count=6&amp;theme=dark&amp;hide_border=true"
-    width="380"
-    height="190"
-    alt="Akshit Mathur Most Used Languages"
-  />
-</td>
+<tr>
+
+  <td align="center" valign="middle">
+
+    <img
+      src="https://streak-stats.demolab.com?user=AkshitMathur&amp;theme=dark&amp;hide_border=true&amp;card_width=420"
+      width="420"
+      alt="Akshit Mathur GitHub Streak"
+    />
+
+  </td>
+
+  <td align="center" valign="middle">
+
+    <img
+      src="https://github-readme-stats-pink-sigma-80.vercel.app/api/top-langs?username=AkshitMathur&amp;layout=compact&amp;langs_count=6&amp;theme=dark&amp;hide_border=true"
+      width="420"
+      alt="Akshit Mathur Most Used Languages"
+    />
+
+  </td>
+
+</tr>
 
 ---
 
 <p align="center">
-  <sub>Open to new opportunities, collaborations, and meaningful connections. If you're working on something interesting or simply want to connect, I'd be happy to hear from you! Let’s connect, share ideas, and build something meaningful together.</sub><br/>
-  <a href="https://www.linkedin.com/in/akshit-mathur-429331293">LinkedIn</a> · <a href="mailto:mathur.aksh2712@gmail.com">mathur.aksh2712@gmail.com</a>
+  Open to new opportunities, collaborations, and meaningful connections.
+  If you're working on something interesting or simply want to connect,
+  I'd be happy to hear from you. Let's connect, exchange ideas, and build
+  something meaningful together.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshit-mathur-429331293">LinkedIn</a>
+  ·
+  <a href="mailto:mathur.aksh2712@gmail.com">Email</a>
 </p>
