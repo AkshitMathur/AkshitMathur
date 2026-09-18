@@ -51,12 +51,11 @@ Real-time object detection and counting system showcasing interrupt-to-task comm
 
 ---
 
-### 📊 GitHub Stats
+## GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AkshitMathur&show_icons=true&theme=default&hide_border=true" alt="Akshit's GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshitMathur&layout=compact&hide_border=true" alt="Top Languages"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkshitMathur&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshitMathur&layout=compact)
 
 ---
 
