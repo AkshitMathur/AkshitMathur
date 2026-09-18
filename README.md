@@ -37,64 +37,12 @@ Currently seeking **full-time and internship opportunities** in embedded systems
 
 ## Technical Skills Inventory
 
-<table align="center">
-  <tr>
-    <th align="left">Category</th>
-    <th align="left">Skills</th>
-  </tr>
-  <tr>
-    <td valign="top">Programming Languages</td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">Libraries & Frameworks</td>
-    <td>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-      <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=flat-square&logo=plotly&logoColor=white" alt="Matplotlib"/>
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-      <img src="https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white" alt="Tkinter"/>
-      <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy"/>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">Database</td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">Development Tools</td>
-    <td>
-      <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
-      <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab"/>
-      <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm"/>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">Data Analysis & Visualization</td>
-    <td>
-      <img src="https://img.shields.io/badge/Statistics-2E8B57?style=flat-square" alt="Statistics"/>
-      <img src="https://img.shields.io/badge/Data%20Cleaning-4B4B4B?style=flat-square" alt="Data Cleaning"/>
-      <img src="https://img.shields.io/badge/EDA-4B4B4B?style=flat-square" alt="EDA"/>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">Additional Toolkit</td>
-    <td>
-      <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown"/>
-      <img src="https://img.shields.io/badge/JSON-4B4B4B?style=flat-square&logo=json&logoColor=white" alt="JSON"/>
-    </td>
-  </tr>
-</table>
+<img src="assets/skills/programming-languages.gif" alt="Programming Languages"/>
+<img src="assets/skills/libraries-frameworks.gif" alt="Libraries and Frameworks"/>
+<img src="assets/skills/database.gif" alt="Database"/>
+<img src="assets/skills/development-tools.gif" alt="Development Tools"/>
+<img src="assets/skills/data-analysis-visualization.gif" alt="Data Analysis and Visualization"/>
+<img src="assets/skills/additional-toolkit.gif" alt="Additional Toolkit"/>
 
 ---
 
