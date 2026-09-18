@@ -85,16 +85,14 @@ Real-time object detection and counting system demonstrating interrupt-to-task c
       />
     </td>
 
-    <td align="center" valign="middle">
-      <img
-        src="https://github-readme-stats-pink-sigma-80.vercel.app/api/top-langs/?username=AkshitMathur&layout=compact&langs_count=6&theme=dark&hide_border=true"
-        width="380"
-        height="190"
-        alt="Most Used Languages"
-      />
-    </td>
-  </tr>
-</table>
+<td align="center" valign="middle">
+  <img
+    src="https://github-readme-stats-pink-sigma-80.vercel.app/api/top-langs?username=AkshitMathur&amp;layout=compact&amp;langs_count=6&amp;theme=dark&amp;hide_border=true"
+    width="380"
+    height="190"
+    alt="Akshit Mathur Most Used Languages"
+  />
+</td>
 
 ---
 
