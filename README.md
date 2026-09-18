@@ -70,27 +70,35 @@ Real-time object detection and counting system demonstrating interrupt-to-task c
   <img
     src="https://github-readme-stats-pink-sigma-80.vercel.app/api?username=AkshitMathur&show_icons=true&theme=dark&hide_border=true"
     height="190"
-    alt="Akshit Mathur GitHub Stats"
+    alt="My GitHub Stats"
   />
 </p>
 
-<!-- GitHub Streak + Most Used Languages -->
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=AkshitMathur&theme=dark&hide_border=true"
-    height="190"
-    alt="Akshit Mathur GitHub Streak"
-  />
-  <img
-    src="https://github-readme-stats-pink-sigma-80.vercel.app/api/top-langs/?username=AkshitMathur&layout=compact&langs_count=6&theme=dark&hide_border=true"
-    height="190"
-    alt="Akshit Mathur Most Used Languages"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <img
+        src="https://streak-stats.demolab.com/?user=AkshitMathur&theme=dark&hide_border=true"
+        width="600"
+        height="190"
+        alt="My GitHub Streak"
+      />
+    </td>
+
+    <td align="center" valign="middle">
+      <img
+        src="https://github-readme-stats-pink-sigma-80.vercel.app/api/top-langs/?username=AkshitMathur&layout=compact&langs_count=6&theme=dark&hide_border=true"
+        width="380"
+        height="190"
+        alt="Most Used Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
 <p align="center">
-  <sub>Open to full-time roles, internships, and collaborations in embedded systems and IoT engineering.</sub><br/>
+  <sub>Open to new opportunities, collaborations, and meaningful connections. If you're working on something interesting or simply want to connect, I'd be happy to hear from you! Let’s connect, share ideas, and build something meaningful together.</sub><br/>
   <a href="https://www.linkedin.com/in/akshit-mathur-429331293">LinkedIn</a> · <a href="mailto:mathur.aksh2712@gmail.com">mathur.aksh2712@gmail.com</a>
 </p>
