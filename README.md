@@ -37,12 +37,91 @@ Currently seeking **full-time and internship opportunities** in embedded systems
 
 ## Technical Skills Inventory
 
-<img src="assets/skills/programming-languages.gif" alt="Programming Languages"/>
-<img src="assets/skills/libraries-frameworks.gif" alt="Libraries and Frameworks"/>
-<img src="assets/skills/database.gif" alt="Database"/>
-<img src="assets/skills/development-tools.gif" alt="Development Tools"/>
-<img src="assets/skills/data-analysis-visualization.gif" alt="Data Analysis and Visualization"/>
-<img src="assets/skills/additional-toolkit.gif" alt="Additional Toolkit"/>
+## Technical Skills Inventory
+
+<table align="center">
+  <tr>
+    <th width="25%" align="left">Category</th>
+    <th align="left">Skills</th>
+  </tr>
+
+  <tr>
+    <td valign="middle"><b>Programming Languages</b></td>
+    <td>
+      <img src="assets/skills/programming-languages.gif" alt="Programming Languages" width="900"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="middle"><b>Microcontrollers &amp; SoCs</b></td>
+    <td>
+      <img src="assets/skills/microcontrollers.gif" alt="Microcontrollers and SoCs" width="900"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="middle"><b>Real-Time Systems</b></td>
+    <td>
+      <img src="assets/skills/realtime.gif" alt="Real-Time Systems" width="900"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="middle"><b>Digital Design &amp; FPGA</b></td>
+    <td>
+      <img src="assets/skills/fpga.gif" alt="Digital Design and FPGA" width="900"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="middle"><b>Connectivity &amp; Protocols</b></td>
+    <td>
+      <img src="assets/skills/connectivity.gif" alt="Connectivity and Protocols" width="900"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="middle"><b>Libraries &amp; Frameworks</b></td>
+    <td>
+      <img src="assets/skills/libraries-frameworks.gif" alt="Libraries and Frameworks" width="900"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="middle"><b>Database &amp; Cloud</b></td>
+    <td>
+      <img src="assets/skills/database.gif" alt="Database and Cloud" width="900"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="middle"><b>Development Tools</b></td>
+    <td>
+      <img src="assets/skills/development-tools.gif" alt="Development Tools" width="900"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="middle"><b>Data Analysis &amp; Visualization</b></td>
+    <td>
+      <img src="assets/skills/data-analysis-visualization.gif" alt="Data Analysis and Visualization" width="900"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="middle"><b>Computer Vision</b></td>
+    <td>
+      <img src="assets/skills/vision.gif" alt="Computer Vision" width="900"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="middle"><b>Additional Toolkit</b></td>
+    <td>
+      <img src="assets/skills/additional-toolkit.gif" alt="Additional Toolkit" width="900"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
