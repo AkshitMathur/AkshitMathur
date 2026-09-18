@@ -1,6 +1,6 @@
 <h1 align="center">Akshit Mathur</h1>
 <h3 align="center">| Electronics & Telecommunication Engineering |</h3>
-<h4 align="center">Final Year</h4>
+<h3 align="center">| Final Year |</h3>
 
 
 <p align="center">
