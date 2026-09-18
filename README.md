@@ -64,53 +64,31 @@ Real-time object detection and counting system demonstrating interrupt-to-task c
 ---
 
 ## 📊 GitHub Statistics
-## 📊 GitHub Statistics
 
-<table align="center">
-  <tr>
-    <td align="center" valign="middle">
-      <img
-        src="https://github-readme-stats-pink-sigma-80.vercel.app/api?username=AkshitMathur&show_icons=true&theme=dark&hide_border=true"
-        width="420"
-        alt="Akshit Mathur GitHub Statistics"
-      />
-    </td>
+| GitHub Statistics | GitHub Streak |
+|:---:|:---:|
+| <img src="https://github-readme-stats-pink-sigma-80.vercel.app/api?username=AkshitMathur&show_icons=true&theme=dark&hide_border=true" width="420" alt="Akshit Mathur GitHub Statistics"> | <img src="https://streak-stats.demolab.com/?user=AkshitMathur&theme=dark&hide_border=true" width="420" alt="Akshit Mathur GitHub Streak"> |
 
-<tr>
-
-  <td align="center" valign="middle">
-
-    <img
-      src="https://streak-stats.demolab.com?user=AkshitMathur&amp;theme=dark&amp;hide_border=true&amp;card_width=420"
-      width="420"
-      alt="Akshit Mathur GitHub Streak"
-    />
-
-  </td>
-
-  <td align="center" valign="middle">
-
-    <img
-      src="https://github-readme-stats-pink-sigma-80.vercel.app/api/top-langs?username=AkshitMathur&amp;layout=compact&amp;langs_count=6&amp;theme=dark&amp;hide_border=true"
-      width="420"
-      alt="Akshit Mathur Most Used Languages"
-    />
-
-  </td>
-
-</tr>
+| Most Used Languages |
+|:---:|
+| <img src="https://github-readme-stats-pink-sigma-80.vercel.app/api/top-langs/?username=AkshitMathur&layout=compact&langs_count=6&theme=dark&hide_border=true" width="420" alt="Akshit Mathur Most Used Languages"> |
 
 ---
 
 <p align="center">
-  Open to new opportunities, collaborations, and meaningful connections.
-  If you're working on something interesting or simply want to connect,
-  I'd be happy to hear from you. Let's connect, exchange ideas, and build
-  something meaningful together.
+Open to new opportunities, collaborations, and meaningful connections.
+If you're working on something interesting or simply want to connect,
+I'd be happy to hear from you. Let's connect, exchange ideas, and build
+something meaningful together.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akshit-mathur-429331293">LinkedIn</a>
-  ·
-  <a href="mailto:mathur.aksh2712@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/akshit-mathur-429331293">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="mailto:mathur.aksh2712@gmail.com">Email</a>
+</p>
+  &nbsp;·&nbsp;
+  <a href="mailto:mathur.aksh2712@gmail.com">
+    Email
+  </a>
 </p>
