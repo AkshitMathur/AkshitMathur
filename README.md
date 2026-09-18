@@ -66,9 +66,6 @@ Real-time object detection and counting system showcasing interrupt-to-task comm
   />
 </p>
 
-
-[![GitHub](https://img.shields.io/badge/GitHub-AkshitMathur-181717?style=flat&logo=github)](https://github.com/AkshitMathur)
-
 ---
 
 <p align="center">
