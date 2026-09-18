@@ -1,6 +1,9 @@
 <h1 align="center">Akshit Mathur</h1>
-<h3 align="center"> | Electronics and Telecommunication Engineering | <h3 align="center"> Final Year | </h3>
-
+<h3 align="center">
+| Electronics and Telecommunication Engineering | 
+<h3 align="center"> 
+| Final Year |
+</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/akshit-mathur-429331293">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -50,19 +53,30 @@ Real-time object detection and counting system showcasing interrupt-to-task comm
 `C++` `FreeRTOS` `ESP32`
 
 ---
+---
 
-### 📊 GitHub Stats
+## 📊 GitHub Statistics
 
+<!-- GitHub Stats -->
 <p align="center">
   <img
-    src="https://github-readme-stats-pink-sigma-80.vercel.app/api?username=AkshitMathur&show_icons=true&theme=default&hide_border=true"
-    height="165"
-    alt="Akshit's GitHub Stats"
+    src="https://github-readme-stats-pink-sigma-80.vercel.app/api?username=AkshitMathur&show_icons=true&theme=dark&hide_border=true"
+    height="190"
+    alt="Akshit Mathur GitHub Stats"
+  />
+</p>
+
+<!-- GitHub Streak + Most Used Languages -->
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=AkshitMathur&theme=dark&hide_border=true"
+    height="190"
+    alt="Akshit Mathur GitHub Streak"
   />
   <img
-    src="https://github-readme-stats-pink-sigma-80.vercel.app/api/top-langs/?username=AkshitMathur&layout=compact&hide_border=true"
-    height="165"
-    alt="Top Languages"
+    src="https://github-readme-stats-pink-sigma-80.vercel.app/api/top-langs/?username=AkshitMathur&layout=compact&langs_count=6&theme=dark&hide_border=true"
+    height="190"
+    alt="Akshit Mathur Most Used Languages"
   />
 </p>
 
