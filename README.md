@@ -37,7 +37,9 @@ Currently seeking **full-time and internship opportunities** in embedded systems
 
 ## Technical Skills Inventory
 
-<p align="center"> <img src="assets/skills/skills-table-animated.svg" alt="Technical Skills Inventory" width="100%"/> </p>
+<p align="center">
+  <img src="assets/skills/skills-table-animated.svg" alt="Technical Skills Inventory" width="100%"/>
+</p>
 
 ---
 
