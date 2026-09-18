@@ -63,11 +63,29 @@ Real-time object detection and counting system demonstrating interrupt-to-task c
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats-pink-sigma-80.vercel.app/api?username=AkshitMathur&show_icons=true&theme=default&hide_border=true" height="165" alt="Akshit's GitHub Stats" />
-  <img src="https://github-readme-stats-pink-sigma-80.vercel.app/api/top-langs/?username=AkshitMathur&layout=compact&hide_border=true" height="165" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats-pink-sigma-80.vercel.app/api?username=AkshitMathur&show_icons=true&theme=dark&hide_border=true"
+    height="190"
+    alt="Akshit Mathur GitHub Stats"
+  />
+</p>
+
+<!-- GitHub Streak + Most Used Languages -->
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=AkshitMathur&theme=dark&hide_border=true"
+    height="190"
+    alt="Akshit Mathur GitHub Streak"
+  />
+  <img
+    src="https://github-readme-stats-pink-sigma-80.vercel.app/api/top-langs/?username=AkshitMathur&layout=compact&langs_count=6&theme=dark&hide_border=true"
+    height="190"
+    alt="Akshit Mathur Most Used Languages"
+  />
 </p>
 
 ---
